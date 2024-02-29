@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/SonLuc/rosa-bot-discord/issues"
   },
-  "homepage": "https://github.com/SonLuc/rosa-bot-discord#readme"
+  "homepage": "https://github.com/SonLuc/rosa-bot-discord#readme",
+  "dependencies": {
+    "eslint": "^8.57.0"
+  }
 }
