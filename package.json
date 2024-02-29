@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/SonLuc/rosa-bot-discord#readme",
   "dependencies": {
+    "discord.js": "^14.14.1",
     "eslint": "^8.57.0"
   }
 }
