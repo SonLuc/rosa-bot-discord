@@ -10,6 +10,8 @@
     },
     "rules": {
         "no-multiple-empty-lines":"off",
-        "eol-last":"off"
+        "eol-last":"off",
+        "no-unused-vars": "warn",
+        "no-trailing-spaces": "off"
     }
 }
