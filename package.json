@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/SonLuc/rosa-bot-discord#readme",
   "dependencies": {
+    "dayjs": "^1.11.10",
     "discord.js": "^14.14.1",
     "dotenv": "^16.4.5"
   },
